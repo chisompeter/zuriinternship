@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>chisompeterjob.com</title>
+</head>
+<style >
+    body{
+        background-image: url('bg.jpg');
+        
+
+    }
+    .div1{
+        width: 300px;
+        height: 650px;
+        border:4.5px solid black;
+        float: left;
+        margin-left: 28%;
+border-right:none;
+background-color: #DADADA;
+
+
+    }
+    .div2{
+        width: 300px;
+        height: 650px;
+        border:4.5px solid black;
+        float: right;
+        margin-right: 26.5%;
+        background-color: #002C5A;
+
+
+
+    }
+    img{
+        margin-left: 25%;
+    }
+    .div2 h3{
+        text-align: center;
+        color:#F9CF02;
+        font-family: monospace
+    }
+    .div2 p{
+        text-align: center;
+        color:#fff;
+        font-family: Helvetica;
+    }
+    .div2 ul{
+        text-align: center;
+        color:#fff;
+        font-family: Helvetica;
+    }
+    .div2 ol{
+        text-align: center;
+        color:#fff;
+        font-family: Helvetica;
+    }
+    .div1 h2{
+text-align: center;
+        
+        font-family: monospace
+    }
+    .div1 p{
+        text-align: center;
+
+font-family: Helvetica;
+
+    }
+</style>
+<body>
+
+<div class="div1">
+    <h2><u>Professional summary</u></h2>
+    <p>Creative thinking writer and editor with interest in design and web development.</p>
+<h2><u>Certifications</u></h2>
+<p>HTML<b>(LinkedIn)</b></p>
+<p>Chat Bot Creation<b>(IBM instituite)</b></p>
+<p>Digital Journalism<b>(Reuters Instituite)</b></p>
+<h2><u>Qualifications</u></h2>
+    <p>Journalism</p>
+    <p>UX Writing</p>
+<p><a href="https://training.zuri.team/">Click here for more info</a></p>  
+</div>
+    
+<div class="div2">
+    
+<img src="pic.png" height="30%" width="50%">
+<h3><u>Personal Info</u></h3>
+<p>Name : Chisom Peter Job</p>
+<p>Phone : (229) 9591048512</p>
+<p>Email : jobchisom69@gmail.com</p>
+<p>Address : Littoral, Benin</p>
+<h3><u>Skills</u></h3>
+<ul>
+    <li>Fact-checking and Research</li>
+    <li>Design using Canva and Whimsical</li>
+    <li>SEO Expert</li>
+</ul>
+<h3><u>Experience</u></h3>
+<ul>
+    <li>UX Writer - Beninfy (2021 - present)</li>
+    <li>Editor in Chief - Living Free UK (2021- present)</li>
+    <li>Freelance journalist - The Washington Post, Huck Magazine, etc (2019 - present)</li>
+</ul>
+</div>
+</html>
